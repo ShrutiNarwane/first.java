@@ -1,5 +1,7 @@
+// Your First Program
+
 class j1 {
     public static void main(String[] args) {
-        System.out.println("my name is shruti"); 
+        System.out.println("My name is Shruti"); 
     }
 }
