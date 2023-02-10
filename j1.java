@@ -1,4 +1,4 @@
-class j1.java {
+class j1 {
     public static void main(String[] args) {
         System.out.println("my name is shruti"); 
     }
